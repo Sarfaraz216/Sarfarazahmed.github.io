@@ -69,16 +69,10 @@ ul.min li{margin:6px 0;color:var(--ink)}
 footer{margin-top:28px;padding-top:12px;border-top:1px solid rgba(0,0,0,0.08)}
 [data-theme="dark"] footer{border-top-color:rgba(255,255,255,0.12)}
 .site-credit{text-align:center;font-size:12px;color:var(--ink-muted);margin-top:8px}
-/* Sidebar portrait: centered, large, professional */
-.side-photo{display:block;margin:6px 6px 12px 6px}
-.side-photo img{
-  display:block;
-  width:100%;
-  height:auto;       /* keeps natural proportions */
-  border-radius:12px;
-  box-shadow:0 10px 24px rgba(0,0,0,0.18);
-}
 
+/* Sidebar portrait — full width, natural ratio */
+.side-photo{display:block;margin:0}
+.side-photo img{display:block;width:100%;height:auto;border-radius:10px;box-shadow:0 10px 24px rgba(0,0,0,0.18)}
 
 </style>
 </head>
@@ -86,10 +80,7 @@ footer{margin-top:28px;padding-top:12px;border-top:1px solid rgba(0,0,0,0.08)}
 <div class="mode"><button id="modeBtn" aria-label="Toggle dark or light mode">☀️ Light</button></div>
 <div class="app">
   <aside>
-    <div class="side-photo">
-  <img src="assets/profile.jpg" alt="Portrait of Sarfaraz Ahmed">
-</div>
-
+    <div class="side-photo"><img src="assets/profile.jpg" alt="Portrait of Sarfaraz Ahmed"></div>
     <div class="side-contact">
       <a href="mailto:space.sarfaraz216@gmail.com">📧 space.sarfaraz216@gmail.com</a>
       <a href="tel:+923194503446">📞 +92-3194503446</a>
