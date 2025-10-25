@@ -1,6 +1,5 @@
 ## Sarfaraz Ahmed  
 **PhD Applicant Intelligent, Secure & Sustainable Computing Systems**  
-[🌐 Portfolio Website](https://sarfaraz216.github.io)  
 📧 space.sarfaraz216@gmail.com  
 
 ---
