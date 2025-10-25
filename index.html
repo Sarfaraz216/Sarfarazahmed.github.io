@@ -70,22 +70,20 @@ footer{margin-top:28px;padding-top:12px;border-top:1px solid rgba(0,0,0,0.08)}
 [data-theme="dark"] footer{border-top-color:rgba(255,255,255,0.12)}
 .site-credit{text-align:center;font-size:12px;color:var(--ink-muted);margin-top:8px}
 
-/* Sidebar portrait: centered, medium height, full image visible */
+/* Sidebar portrait: fills width perfectly, face always visible */
 .side-photo {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  display: block;
   margin: 6px 6px 12px 6px;
   border-radius: 12px;
-  background-color: rgba(255, 255, 255, 0.15); /* optional soft frame tone */
+  overflow: hidden; /* clean edges */
 }
 
 .side-photo img {
   display: block;
   width: 100%;
-  max-height: 220px;        /* medium height limit */
-  height: auto;
-  object-fit: contain;      /* shows full image (no cropping) */
+  height: 240px;           /* medium height */
+  object-fit: cover;       /* fills area fully */
+  object-position: top center; /* keeps upper area (face) visible */
   border-radius: 10px;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.18);
 }
