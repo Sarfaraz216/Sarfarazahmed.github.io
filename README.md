@@ -1,5 +1,5 @@
 ## Sarfaraz Ahmed  
-**PhD Applicant Intelligent, Secure & Sustainable Computing Systems**  
+** Computer Science Student | Applying for Ph.D in AI, ML, Deep Learning, sustainable computing systems, systems design, Intelligent System Security  **  
 📧 space.sarfaraz216@gmail.com  
 
 ---
@@ -19,8 +19,7 @@ I am a researcher focused on the development of **intelligent, secure, and susta
 ---
 
 ### 🏫 Education  
-- **B.S. in Computer Science**  *University of the People, USA* (CGPA 3.72 / 4.00) — Feb 2026  
-- **HSC in Pre-Engineering**  *Government Degree College, Thul* (Grade A1) — Aug 2022  
+**B.S. in Computer Science**  *University of the People, USA* (CGPA 3.72 / 4.00) — Feb 2026  
 
 ---
 
