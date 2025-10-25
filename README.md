@@ -1,5 +1,5 @@
 ## Sarfaraz Ahmed  
-** Computer Science Student | Applying for Ph.D in AI, ML, Deep Learning, sustainable computing systems, systems design, Intelligent System Security  **  
+Computer Science Student | Applying for Ph.D in AI, ML, Deep Learning, sustainable computing systems, systems design, Intelligent System Security
 📧 space.sarfaraz216@gmail.com  
 
 ---
