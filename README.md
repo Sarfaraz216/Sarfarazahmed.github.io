@@ -1,7 +1,7 @@
 ## Sarfaraz Ahmed  
 Computer Science Graduate & Applying for Ph.D in Computer Science
 
-visit: https://sarfaraz216.github.io/Sarfarazahmed.github.io/#about 
+visit: https://sarfaraz216.github.io/Sarfarazahmed.github.io/
 ---
 
 ###  Academic Profile  
