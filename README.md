@@ -1,16 +1,15 @@
 ## Sarfaraz Ahmed  
-Computer Science Student | Applying for Ph.D in AI, ML, Deep Learning, sustainable computing systems, systems design, Intelligent System Security
+Computer Science Graduate & Applying for Ph.D in Computer Science
 
-📧 space.sarfaraz216@gmail.com  
-
+visit: https://sarfaraz216.github.io/Sarfarazahmed.github.io/#about 
 ---
 
-### 🎓 Academic Profile  
+###  Academic Profile  
 I am a researcher focused on the development of **intelligent, secure, and sustainable computing systems** that advance reliability, autonomy, and performance in next-generation infrastructures. My work bridges **AI, cybersecurity, and systems design**, emphasizing interdisciplinary innovation and real-world scalability.
 
 ---
 
-### 🔬 Research Interests  
+###  Research Interests  
 - Artificial Intelligence for Sustainable Computing  
 - Intelligent System Security and Trustworthy Architectures  
 - Cloud and Edge Intelligence Integration  
@@ -19,12 +18,12 @@ I am a researcher focused on the development of **intelligent, secure, and susta
 
 ---
 
-### 🏫 Education  
-**B.S. in Computer Science**  *University of the People, USA* (CGPA 3.72 / 4.00) — Feb 2026  
+###  Education  
+**B.S. in Computer Science**  *University of the People, USA* Feb 2025
 
 ---
 
-### 🧠 Professional Experience  
+###  Professional Experience  
 **DevOps Intern**  *Software Productivity Strategists (SPS), NSTP Islamabad (July–Sept 2025)*  
 Worked on CI/CD automation, containerized deployment systems, and secure build pipelines in Linux and cloud environments.  
 
@@ -33,7 +32,7 @@ Applied deep-learning models for intelligent data systems and autonomous decisio
 
 ---
 
-### 🏅 Honors & Recognitions  
+###  Honors & Recognitions  
 **President’s List (2023)**  University of the People, USA  
 **Dean’s List (2024–2025)**  University of the People, USA  
 **Aspire Leaders Program (Harvard-Affiliated)**  Apr 2024  
