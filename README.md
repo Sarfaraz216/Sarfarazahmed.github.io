@@ -38,22 +38,13 @@ Applied deep-learning models for intelligent data systems and autonomous decisio
 **Aspire Leaders Program (Harvard-Affiliated)**  Apr 2024  
 **Creative Writing Competition #007** PIFFERS Security Services Pakistan (2025)  
 
----
 
 
- Short Project 
- 
-NeuroSpace investigates how autonomous AI agents evolve, collaborate, and compete in a simulated deep-space ecosystem governed by dynamic physical and cognitive rules.  
-The system combines  
-Self-learning reinforcement agents capable of neural adaptation.  
-Dynamic environment modeling inspired by astrophysical systems.  
-Decentralized agent communication based on graph / quantum-inspired logic.  
-
-This prototype explores **autonomous coordination, decision theory, and complex adaptive systems**. A step toward understanding intelligence emergence in artificial environments.
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=700&color=33DDFF&background=0D111700&center=true&vCenter=true&width=1100&height=160&lines=NeuroSpace:+booting+3D+dynamic+gravity+field...;Spawning+500+adaptive-transformer+agents...;Agents+observing,+learning,+cooperating...;Emergent+intelligence+patterns+detected."
     alt="NeuroSpace Terminal — Animated"
   />
 </p>
+
 @ sarfaraz ahmed
