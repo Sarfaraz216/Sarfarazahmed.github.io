@@ -1,7 +1,6 @@
 ## Sarfaraz Ahmed  
 Computer Science Graduate & Applying for Ph.D in Computer Science
 
-visit: https://sarfaraz216.github.io/Sarfarazahmed.github.io/
 ---
 
 ###  Academic Profile  
@@ -37,6 +36,9 @@ Applied deep-learning models for intelligent data systems and autonomous decisio
 **Dean’s List (2024–2025)**  University of the People, USA  
 **Aspire Leaders Program (Harvard-Affiliated)**  Apr 2024  
 **Creative Writing Competition #007** PIFFERS Security Services Pakistan (2025)  
+
+
+visit: https://sarfaraz216.github.io/Sarfarazahmed.github.io/
 
 
 
