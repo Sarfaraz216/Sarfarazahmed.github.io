@@ -3,33 +3,12 @@ Computer Science Graduate & Applying for Ph.D in Computer Science
 
 ---
 
-###  Academic Profile  
-I am a researcher focused on the development of **intelligent, secure, and sustainable computing systems** that advance reliability, autonomy, and performance in next-generation infrastructures. My work bridges **AI, cybersecurity, and systems design**, emphasizing interdisciplinary innovation and real-world scalability.
-
----
-
-###  Research Interests  
-- Artificial Intelligence for Sustainable Computing  
-- Intelligent System Security and Trustworthy Architectures  
-- Cloud and Edge Intelligence Integration  
-- Data-Driven Systems Optimization  
-- Human-AI Collaboration in Computing Environments  
-
----
 
 ###  Education  
-**B.S. in Computer Science**  *University of the People, USA* Feb 2025
+**B.S. in Computer Science**  *University of the People, USA* March 2026
 
 ---
 
-###  Professional Experience  
-**DevOps Intern**  *Software Productivity Strategists (SPS), NSTP Islamabad (July–Sept 2025)*  
-Worked on CI/CD automation, containerized deployment systems, and secure build pipelines in Linux and cloud environments.  
-
-**Research Trainee** *Summer Research Program, NUST (June–July 2025)*  
-Applied deep-learning models for intelligent data systems and autonomous decision logic using Python, TensorFlow, and Scikit-learn.  
-
----
 
 ###  Honors & Recognitions  
 **President’s List (2023)**  University of the People, USA  
